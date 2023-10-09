@@ -1,2 +1,2 @@
 # special-chainsaw
-add andom books data to mysql 
+add random books data to mysql 
